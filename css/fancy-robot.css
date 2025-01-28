@@ -17,8 +17,8 @@ may have sacrificed certain parts of the assignment in favor of my creative impu
 }
 
 .robot-eye-left {
-  width: 110px;
-  height: 50px;
+  width: 45%;
+  height: 20%;
   border-radius: 0 0 100px 100px;
   position: absolute;
   top: 120px;
@@ -44,8 +44,8 @@ may have sacrificed certain parts of the assignment in favor of my creative impu
 }
 
 .robot-eye-right {
-  width: 110px;
-  height: 50px;
+  width: 45%;
+  height: 20%;
   border-radius: 0 0 100px 100px;
   position: absolute;
   top: 120px;
